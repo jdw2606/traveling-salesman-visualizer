@@ -1,4 +1,3 @@
-
 public class Line2D {
 	int x1;
 	int x2;

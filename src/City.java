@@ -1,4 +1,3 @@
-
 public class City {
 	int x;
 	int y;
